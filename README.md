@@ -45,4 +45,4 @@ Links to usefull websites <br>
 [Alpine Packages]: http://pkgs.alpinelinux.org/ <br>
 [About Alpine]: https://www.alpinelinux.org/about/ <br>
 [GitHub Issues]: https://github.com/containerstack/docker-alpine/issues <br>
-[Docker Hub]: https://hub.docker.com/r/containerstack/alpine-arm/
+[Docker Hub]: https://hub.docker.com/r/containerstack/alpine-arm64/
